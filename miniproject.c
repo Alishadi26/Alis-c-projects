@@ -12,7 +12,7 @@ do {                                       // Here is the menu
     printf("1. Currency converstion\n");
     printf("2. Calculator\n");
     printf("3. Exit the program\n");
-    printf("Enter choice:");
+    printf("Enter choice:");   
     scanf("%d", &choice);
     switch(choice){                     //After I finshied the menu I made a switch case for every choice now this for the currency 
     case 1:
