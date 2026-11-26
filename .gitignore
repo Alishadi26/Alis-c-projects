@@ -1,0 +1,6 @@
+calculator
+snake
+*.o
+*.out
+.DS_Store
+.vscode/
